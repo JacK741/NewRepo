@@ -13,7 +13,7 @@ namespace testeGitVS
             Console.WriteLine("Exemplo de uso da integração do GitHub no VisualStudio");
             Console.ReadKey();
 
-            //alteração 1
+            //alteração 3
         }
     }
 }
